@@ -326,6 +326,13 @@ async def predict_careers(request: PredictionRequest):
         # Extract features from request
         user_features = extract_features_from_request(request)
         
+        # Debug: Check if feature_names is set
+        if feature_names is None:
+            raise HTTPException(
+                status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+                detail="Feature names not initialized. Model may not be loaded correctly."
+            )
+        
         # Prepare feature vector for model
         X = np.array([[user_features[f] for f in feature_names]])
         

@@ -6,7 +6,7 @@ import requests
 import json
 from typing import Dict, List
 
-API_URL = "http://localhost:8000"
+API_URL = "https://career-recommender-api-gpbq.onrender.com"
 
 
 def print_recommendations(recommendations: List[Dict], profile_name: str):
@@ -34,32 +34,30 @@ def test_profile(profile: Dict, profile_name: str):
             print(f"Model Version: {data['model_version']}")
             print(f"Timestamp: {data['timestamp']}")
         else:
-            print(f"\n❌ Error {response.status_code}: {response.json()}")
+            print(f"\nError {response.status_code}: {response.json()}")
     
     except requests.exceptions.ConnectionError:
-        print("\n❌ Error: Could not connect to API. Make sure the server is running.")
+        print("\nError: Could not connect to API. Make sure the server is running.")
         print("   Run: python run_api.py")
     except Exception as e:
-        print(f"\n❌ Error: {e}")
+        print(f"\nError: {e}")
 
 
 def main():
     """Test multiple sample profiles"""
-    
     # Check if API is running
     try:
         health_response = requests.get(f"{API_URL}/health")
         if health_response.status_code == 200:
             health_data = health_response.json()
-            print(f"\n✓ API is running")
-            print(f"✓ Status: {health_data['status']}")
-            print(f"✓ Model loaded: {health_data['model_loaded']}")
+            print(f"\n[OK] API is running")
+            print(f"[OK] Status: {health_data['status']}")
+            print(f"[OK] Model loaded: {health_data['model_loaded']}")
         else:
-            print("\n⚠ API is running but health check failed")
+            print("\n[WARNING] API is running but health check failed")
     except:
-        print("\n❌ API is not running. Please start it first with: python run_api.py")
+        print("\n[ERROR] API is not running. Please start it first with: python run_api.py")
         return
-    
     # Test Profile 1: Data Scientist Profile
     profile_1 = {
         "skills": ["Python", "Machine Learning", "Statistics", "SQL", "Data Analysis"],
