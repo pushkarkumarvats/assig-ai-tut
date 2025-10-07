@@ -252,23 +252,23 @@ class FeatureEngineer:
         
         # Create skill clusters
         df_features = self.create_skill_clusters()
-        print("✓ Skill clusters created")
+        print("[OK] Skill clusters created")
         
         # Create interest profiles
         df_features = self.create_interest_profiles(df_features)
-        print("✓ Interest profiles created")
+        print("[OK] Interest profiles created")
         
         # Create personality features
         df_features = self.create_personality_features(df_features)
-        print("✓ Personality features created")
+        print("[OK] Personality features created")
         
         # Create interaction features
         df_features = self.create_interaction_features(df_features)
-        print("✓ Interaction features created")
+        print("[OK] Interaction features created")
         
         # Create career readiness score
         df_features = self.create_career_readiness_score(df_features)
-        print("✓ Career readiness score created")
+        print("[OK] Career readiness score created")
         
         feature_names = self.get_feature_names()
         

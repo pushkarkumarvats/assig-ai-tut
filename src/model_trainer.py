@@ -348,7 +348,7 @@ class CareerModelTrainer:
         self.best_model_name = comparison_df.iloc[best_idx]['model']
         self.best_model = self.models[self.best_model_name]
         
-        print(f"\n🏆 Best Model: {self.best_model_name}")
+        print(f"\n[BEST] Model: {self.best_model_name}")
         
         return comparison_df
     
@@ -449,7 +449,7 @@ class CareerModelTrainer:
         }
         
         joblib.dump(model_package, filepath)
-        print(f"\n✓ Model saved to: {filepath}")
+        print(f"\n[OK] Model saved to: {filepath}")
     
     @staticmethod
     def load_model(filepath: str) -> Dict:
@@ -463,7 +463,7 @@ class CareerModelTrainer:
             Dictionary containing model and metadata
         """
         model_package = joblib.load(filepath)
-        print(f"✓ Model loaded: {model_package['model_name']} v{model_package['version']}")
+        print(f"[OK] Model loaded: {model_package['model_name']} v{model_package['version']}")
         return model_package
 
 
