@@ -39,11 +39,12 @@ venv.bak/
 *~
 
 # Model files (large)
-*.pkl
-*.h5
-*.pt
-*.pth
-models/*.pkl
+# NOTE: Uncomment lines below if NOT deploying to cloud (model file needed for deployment)
+# *.pkl
+# *.h5
+# *.pt
+# *.pth
+# models/*.pkl
 !models/.gitkeep
 
 # Data files (large)
