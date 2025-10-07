@@ -1,0 +1,501 @@
+user_id,skills,interests,analytical,creative,social,education,experience,target_careers
+u1,"SQL,Java","Health,Arts,Business",0.51,0.94,0.67,Master,6,"Software Engineer,Data Scientist,Business Analyst"
+u2,"Business Strategy,Excel",Management,0.5,0.99,0.86,High School,0,Software Engineer
+u3,"Statistics,Python,UI/UX","Management,Health,Sports",0.35,0.3,0.75,PhD,6,Financial Analyst
+u4,"Statistics,SQL,UI/UX","Health,Education",0.46,0.94,0.95,Master,8,"Business Analyst,Data Scientist,Marketing Specialist"
+u5,"SQL,Project Management,Python,Business Strategy",Science,0.29,0.48,0.6,Master,4,"Software Engineer,UX Designer"
+u6,"Leadership,Python,Statistics,Machine Learning","Sports,Health,Technology",0.44,0.29,0.22,PhD,9,"Business Analyst,Product Manager,Data Scientist"
+u7,"Project Management,Cloud Computing","Technology,Business",0.5,0.63,0.87,Master,8,Marketing Specialist
+u8,"Creative Writing,Data Analysis,Machine Learning,Excel,SQL","Technology,Science,Business",0.26,0.95,0.8,Bachelor,3,"Business Analyst,UX Designer,Research Scientist"
+u9,"Statistics,Leadership,UI/UX,Creative Writing,Java","Health,Business,Management",0.91,0.43,0.49,Master,8,Financial Analyst
+u10,"Python,SQL","Technology,Health,Science",0.53,0.8,0.58,Master,9,"Data Scientist,Product Manager,UX Designer"
+u11,"Java,Leadership,Statistics,Creative Writing,Machine Learning","Management,Technology,Arts",0.94,0.74,0.95,Master,7,"Data Scientist,Business Analyst,Software Engineer"
+u12,"Creative Writing,Python,Java,Data Analysis","Management,Arts",0.38,0.32,0.96,PhD,4,"Research Scientist,UX Designer"
+u13,"Communication,Business Strategy,Creative Writing,Java,Machine Learning","Arts,Business",0.4,0.41,0.22,PhD,0,Research Scientist
+u14,"Data Analysis,Statistics,Java","Management,Education",0.6,0.28,0.87,High School,1,"Software Engineer,Product Manager"
+u15,"Business Strategy,Project Management","Management,Technology",0.36,0.39,0.47,Master,4,Marketing Specialist
+u16,"Cloud Computing,Python","Education,Management",0.2,0.23,0.63,PhD,2,"Business Analyst,Research Scientist"
+u17,"Java,Leadership",Science,0.82,0.47,0.74,Bachelor,8,"UX Designer,Software Engineer,Research Scientist"
+u18,"Statistics,Excel,Communication,Python,Leadership",Management,0.71,0.75,0.5,Master,0,"Financial Analyst,Product Manager,Business Analyst"
+u19,"Python,UI/UX",Education,0.83,0.98,0.67,Master,9,Business Analyst
+u20,"Excel,Java,Project Management",Health,0.59,0.29,0.99,Bachelor,2,Financial Analyst
+u21,"Machine Learning,Statistics,Leadership","Management,Business",0.22,0.83,0.22,Bachelor,8,Marketing Specialist
+u22,"Creative Writing,Machine Learning,Business Strategy","Education,Science,Technology",0.67,0.48,0.53,PhD,3,Financial Analyst
+u23,"SQL,Creative Writing","Technology,Management",0.42,0.46,0.54,Bachelor,7,Product Manager
+u24,"Leadership,UI/UX,Statistics,Java,Python","Technology,Arts",0.79,0.83,0.55,Master,2,"Product Manager,Data Scientist"
+u25,"Cloud Computing,Project Management",Technology,0.23,0.27,0.81,Master,3,"Business Analyst,Research Scientist"
+u26,"Project Management,Excel,Business Strategy,Machine Learning,Communication","Sports,Science,Health",0.91,0.73,0.69,Master,1,Software Engineer
+u27,"Project Management,Java",Management,0.68,0.25,0.62,Master,2,Business Analyst
+u28,"Statistics,Leadership,SQL,UI/UX,Project Management","Business,Arts",0.28,0.29,0.94,Master,5,"Research Scientist,Marketing Specialist,Business Analyst"
+u29,"Business Strategy,Leadership,Cloud Computing,Data Analysis,UI/UX",Technology,0.47,0.39,0.93,Bachelor,1,"Business Analyst,Product Manager,Marketing Specialist"
+u30,"Java,Communication,Machine Learning",Technology,0.93,0.72,0.46,Bachelor,7,"Research Scientist,Data Scientist"
+u31,"Cloud Computing,Project Management,Business Strategy,Statistics,Creative Writing",Education,0.45,0.31,0.62,High School,3,Business Analyst
+u32,"Excel,Machine Learning,Statistics,SQL,Cloud Computing",Technology,0.31,0.25,0.75,High School,5,"UX Designer,Research Scientist"
+u33,"Data Analysis,Cloud Computing,Excel,Project Management",Technology,0.43,0.5,0.28,Master,0,"Data Scientist,UX Designer"
+u34,"Cloud Computing,SQL,Project Management,Business Strategy","Sports,Science,Health",0.56,0.52,0.75,Bachelor,7,"Product Manager,Data Scientist"
+u35,"Cloud Computing,Java",Sports,0.8,0.42,0.55,Master,9,"Research Scientist,Business Analyst,Marketing Specialist"
+u36,"Creative Writing,Data Analysis,Excel,Python","Technology,Business",0.66,0.93,0.38,PhD,0,"Financial Analyst,Software Engineer"
+u37,"Cloud Computing,Statistics","Technology,Education,Management",0.97,0.34,0.53,Master,4,Software Engineer
+u38,"Statistics,Leadership",Education,0.84,0.96,0.3,High School,6,Data Scientist
+u39,"Data Analysis,Leadership","Health,Management,Arts",0.68,0.75,0.28,High School,3,"Marketing Specialist,Financial Analyst"
+u40,"Creative Writing,Excel",Health,0.7,0.85,0.72,Bachelor,2,Product Manager
+u41,"SQL,Communication,Excel,UI/UX,Java",Business,0.36,0.25,0.48,Master,0,"Product Manager,Software Engineer,Marketing Specialist"
+u42,"Statistics,Cloud Computing,Machine Learning,Project Management",Education,0.54,0.75,0.53,Master,3,"Software Engineer,Research Scientist,Product Manager"
+u43,"Communication,Data Analysis,Excel","Education,Arts",0.53,0.69,0.22,High School,3,"Software Engineer,Product Manager"
+u44,"Cloud Computing,Python,Project Management,SQL,Excel",Health,0.99,0.93,0.63,Master,4,"Financial Analyst,Marketing Specialist,UX Designer"
+u45,"Data Analysis,Machine Learning,Communication","Management,Health",0.39,0.35,0.46,High School,2,"Business Analyst,Data Scientist,Financial Analyst"
+u46,"Data Analysis,Java,UI/UX",Management,0.41,0.45,0.73,Master,1,"Research Scientist,Software Engineer,Business Analyst"
+u47,"Business Strategy,Leadership,Excel,Project Management,Creative Writing","Education,Science,Arts",0.45,0.88,0.63,PhD,4,UX Designer
+u48,"Cloud Computing,Statistics,Machine Learning,Python,Excel",Health,0.92,0.55,0.47,PhD,8,"Software Engineer,UX Designer"
+u49,"Java,Creative Writing,Statistics",Management,0.43,0.6,0.35,PhD,0,"Product Manager,UX Designer,Business Analyst"
+u50,"SQL,Cloud Computing","Management,Health,Science",0.35,0.86,0.33,High School,6,UX Designer
+u51,"Python,UI/UX,Leadership","Health,Sports,Management",0.52,0.88,0.74,High School,7,"UX Designer,Product Manager"
+u52,"Creative Writing,Machine Learning,Python,Excel,Business Strategy",Business,0.96,0.35,0.45,High School,0,Business Analyst
+u53,"Communication,Excel,Statistics,SQL","Health,Business,Technology",0.97,0.28,0.6,Bachelor,7,Marketing Specialist
+u54,"UI/UX,Machine Learning,Communication",Science,0.34,0.81,0.51,Bachelor,0,Software Engineer
+u55,"Java,Business Strategy","Education,Technology,Management",0.8,0.71,0.67,Master,10,"UX Designer,Data Scientist"
+u56,"Statistics,Data Analysis,Cloud Computing,UI/UX","Sports,Science",0.29,0.96,0.84,High School,8,"Product Manager,Marketing Specialist"
+u57,"UI/UX,Machine Learning,Java","Management,Education",0.59,0.36,0.79,PhD,1,"Research Scientist,UX Designer,Financial Analyst"
+u58,"UI/UX,Business Strategy","Science,Management,Business",0.93,0.82,0.99,High School,0,"Research Scientist,Product Manager,Financial Analyst"
+u59,"Data Analysis,Machine Learning,Cloud Computing,Python","Business,Sports",0.32,0.47,0.9,PhD,9,"Marketing Specialist,UX Designer,Research Scientist"
+u60,"UI/UX,Communication,Data Analysis,SQL","Arts,Management",0.91,0.58,0.9,High School,6,"UX Designer,Marketing Specialist"
+u61,"Python,UI/UX","Health,Management",0.76,0.91,0.99,PhD,9,Marketing Specialist
+u62,"UI/UX,Communication","Technology,Management",0.7,0.32,0.56,PhD,7,Marketing Specialist
+u63,"Statistics,Data Analysis,Leadership",Science,0.77,0.73,0.49,Bachelor,2,Financial Analyst
+u64,"Java,Business Strategy,Creative Writing,Python,Cloud Computing","Technology,Sports",0.65,0.84,0.54,High School,3,Financial Analyst
+u65,"Communication,UI/UX","Arts,Management",0.74,0.24,0.81,PhD,6,"Product Manager,Marketing Specialist"
+u66,"Java,Excel,Python,UI/UX","Management,Health,Sports",0.6,0.35,0.68,Master,5,Software Engineer
+u67,"Creative Writing,Cloud Computing,Data Analysis,Statistics,Java","Business,Arts",0.86,0.89,0.64,Master,6,"Product Manager,Research Scientist"
+u68,"Project Management,Excel,UI/UX","Business,Arts,Health",0.68,0.77,0.98,High School,7,"Product Manager,Software Engineer,Marketing Specialist"
+u69,"Cloud Computing,Statistics,Python,Machine Learning,SQL","Education,Arts,Health",0.26,0.33,0.96,High School,2,"Software Engineer,Data Scientist,Research Scientist"
+u70,"Machine Learning,Java,Excel,Statistics","Arts,Sports",0.44,0.67,0.57,PhD,5,UX Designer
+u71,"Creative Writing,Business Strategy",Sports,0.76,0.63,0.51,Bachelor,1,Business Analyst
+u72,"Python,Cloud Computing,SQL","Education,Science,Business",0.42,0.74,0.54,PhD,1,UX Designer
+u73,"Java,UI/UX,Data Analysis,Communication","Science,Business,Arts",0.58,0.62,0.49,PhD,8,"Business Analyst,UX Designer,Financial Analyst"
+u74,"UI/UX,Statistics","Health,Sports,Arts",0.41,0.54,0.62,Master,10,"Research Scientist,Software Engineer"
+u75,"Leadership,Python,Machine Learning,Cloud Computing",Business,0.91,0.26,0.71,PhD,6,Data Scientist
+u76,"Leadership,Data Analysis",Science,0.25,0.43,0.75,PhD,7,"Data Scientist,Financial Analyst"
+u77,"UI/UX,Data Analysis",Sports,0.74,0.45,0.54,PhD,4,Research Scientist
+u78,"Leadership,Machine Learning,Cloud Computing,Python","Science,Arts,Technology",0.44,0.78,0.72,Bachelor,0,"Software Engineer,Marketing Specialist"
+u79,"Business Strategy,Communication",Education,0.46,0.98,0.65,High School,6,Product Manager
+u80,"Creative Writing,Communication,Cloud Computing","Sports,Technology,Science",0.36,0.39,0.6,Master,1,"Data Scientist,Marketing Specialist"
+u81,"Creative Writing,Communication,Excel,UI/UX,Leadership","Health,Arts,Technology",0.39,0.32,0.64,High School,8,"Research Scientist,Marketing Specialist"
+u82,"Project Management,Statistics,Machine Learning,Data Analysis",Technology,0.79,0.65,0.29,PhD,8,"Data Scientist,Research Scientist,Business Analyst"
+u83,"UI/UX,Project Management,Creative Writing,Cloud Computing,Business Strategy","Technology,Management,Health",0.23,0.89,0.65,Bachelor,10,"Software Engineer,Product Manager,Financial Analyst"
+u84,"SQL,Machine Learning,UI/UX","Science,Management,Sports",0.53,0.85,0.54,High School,1,"Business Analyst,Marketing Specialist,Software Engineer"
+u85,"Cloud Computing,Excel,SQL,Python,Business Strategy","Science,Sports,Arts",0.9,0.93,0.36,Bachelor,0,"Data Scientist,Financial Analyst"
+u86,"Python,SQL,Cloud Computing,Java","Management,Science,Business",0.91,0.39,0.5,Bachelor,7,"Data Scientist,Software Engineer,Marketing Specialist"
+u87,"Project Management,Cloud Computing","Sports,Arts",0.75,0.32,0.21,PhD,8,"Business Analyst,Product Manager"
+u88,"Python,Excel","Education,Technology",0.21,0.93,0.78,PhD,6,UX Designer
+u89,"Python,Cloud Computing,Excel,Statistics",Science,0.54,0.82,0.22,Master,2,"UX Designer,Financial Analyst,Marketing Specialist"
+u90,"Machine Learning,Excel,Data Analysis,Communication,Creative Writing","Education,Technology",0.63,0.58,0.85,Bachelor,3,"Research Scientist,Data Scientist"
+u91,"Project Management,UI/UX,Creative Writing,Data Analysis,Excel","Education,Management",0.8,0.86,0.66,Bachelor,10,"Research Scientist,Product Manager,Data Scientist"
+u92,"Business Strategy,Python,Excel","Sports,Business,Management",0.37,0.61,0.33,PhD,4,"Financial Analyst,Product Manager"
+u93,"Statistics,Communication,Machine Learning,Python","Management,Sports",0.71,0.65,0.37,High School,5,Software Engineer
+u94,"SQL,Python","Education,Arts",0.4,0.23,0.89,High School,1,"Product Manager,Business Analyst,Research Scientist"
+u95,"UI/UX,Excel,Cloud Computing,Machine Learning,Leadership","Technology,Arts,Management",0.98,0.36,0.51,Bachelor,8,Business Analyst
+u96,"Leadership,Statistics",Education,0.76,0.55,0.32,Master,10,"UX Designer,Data Scientist"
+u97,"Communication,Python",Technology,0.49,0.28,0.98,PhD,10,"Financial Analyst,Research Scientist"
+u98,"Statistics,Creative Writing,UI/UX,Cloud Computing",Arts,0.25,0.62,0.91,Bachelor,1,Business Analyst
+u99,"Java,Excel,UI/UX,Cloud Computing,Data Analysis","Science,Management,Education",0.28,0.52,0.43,Master,5,"Software Engineer,Product Manager,Research Scientist"
+u100,"SQL,Project Management,Communication",Sports,0.4,0.83,0.27,Bachelor,0,"Financial Analyst,UX Designer"
+u101,"UI/UX,Machine Learning,Cloud Computing","Business,Sports",0.43,0.87,0.77,PhD,6,"Research Scientist,Software Engineer"
+u102,"Excel,Business Strategy",Education,0.59,0.31,0.27,Bachelor,6,"UX Designer,Data Scientist,Business Analyst"
+u103,"Data Analysis,Project Management,Java,Excel,Statistics","Arts,Sports",0.65,0.42,0.89,High School,5,Data Scientist
+u104,"Communication,Excel","Technology,Arts",0.22,0.34,0.37,PhD,3,Research Scientist
+u105,"Project Management,Communication,Java",Science,0.51,0.69,0.29,High School,1,"Marketing Specialist,Financial Analyst"
+u106,"Excel,Business Strategy,Machine Learning,Communication,Project Management","Health,Technology",0.7,0.22,0.6,PhD,1,"Business Analyst,Marketing Specialist"
+u107,"Communication,Business Strategy,Data Analysis","Management,Sports,Arts",0.75,0.34,0.38,Bachelor,6,"Software Engineer,Marketing Specialist"
+u108,"Data Analysis,Machine Learning,Communication",Health,0.22,0.67,0.25,High School,4,"Software Engineer,Data Scientist"
+u109,"Excel,UI/UX,Leadership,Cloud Computing",Business,0.26,0.45,0.68,Bachelor,3,"Product Manager,Data Scientist"
+u110,"Python,Communication,Cloud Computing","Business,Science",0.4,0.36,0.46,PhD,6,"Product Manager,Data Scientist"
+u111,"Data Analysis,Python,Project Management,Statistics,Communication","Health,Technology,Arts",0.31,0.58,0.73,High School,9,"Product Manager,UX Designer"
+u112,"Communication,Project Management","Arts,Health",0.29,0.58,0.35,Master,3,"Financial Analyst,Software Engineer"
+u113,"Cloud Computing,Creative Writing,Business Strategy,Project Management,SQL","Science,Arts,Technology",0.39,0.55,0.45,High School,8,Data Scientist
+u114,"Java,Machine Learning,Statistics,Project Management","Health,Sports",0.54,0.2,0.8,High School,10,Marketing Specialist
+u115,"Project Management,Python,Communication",Science,0.54,0.79,0.98,Master,3,"Research Scientist,Financial Analyst,Data Scientist"
+u116,"Statistics,Machine Learning,Business Strategy",Business,0.91,0.34,0.21,Bachelor,6,"Product Manager,Data Scientist,Business Analyst"
+u117,"Machine Learning,Java,Cloud Computing,Project Management,SQL","Science,Business",0.32,0.87,0.45,Master,0,Product Manager
+u118,"Excel,Data Analysis,SQL,Cloud Computing",Technology,0.31,0.47,0.53,Master,7,"Product Manager,Research Scientist"
+u119,"SQL,Project Management,Data Analysis","Technology,Health",0.51,0.42,0.77,High School,10,"UX Designer,Data Scientist,Financial Analyst"
+u120,"Creative Writing,Business Strategy,Java",Business,0.81,0.54,0.62,PhD,4,"Business Analyst,Product Manager,UX Designer"
+u121,"UI/UX,Leadership,Data Analysis,Python,SQL",Technology,0.84,1.0,0.85,High School,9,"Marketing Specialist,Data Scientist,Business Analyst"
+u122,"Statistics,Data Analysis",Management,0.83,0.73,0.6,Bachelor,3,Research Scientist
+u123,"Project Management,Data Analysis,UI/UX","Sports,Business",0.66,0.68,0.22,High School,0,"Business Analyst,Software Engineer"
+u124,"Java,Business Strategy,Python","Science,Management",0.4,0.59,0.39,Master,3,Business Analyst
+u125,"Python,Excel,Communication,Java,Leadership","Science,Management",0.55,0.23,0.36,High School,1,Research Scientist
+u126,"Java,Data Analysis,SQL","Technology,Arts",0.25,0.52,0.29,Master,7,"Financial Analyst,Business Analyst"
+u127,"Cloud Computing,Communication,UI/UX,Excel,Leadership","Technology,Management",0.98,0.37,0.9,PhD,6,"Data Scientist,Marketing Specialist,Product Manager"
+u128,"UI/UX,Cloud Computing",Arts,0.29,0.86,0.25,PhD,10,"Software Engineer,Data Scientist"
+u129,"SQL,Business Strategy,Statistics,Python","Education,Health,Business",0.82,0.23,0.76,High School,2,"Business Analyst,Financial Analyst,UX Designer"
+u130,"Business Strategy,Creative Writing,Machine Learning,SQL","Science,Technology,Management",0.65,0.51,0.21,Bachelor,2,"Product Manager,Data Scientist,Software Engineer"
+u131,"Communication,Excel",Technology,0.97,0.59,0.43,High School,4,"Business Analyst,UX Designer"
+u132,"Statistics,Java","Technology,Arts",0.66,0.63,0.51,Bachelor,5,Research Scientist
+u133,"Business Strategy,Creative Writing",Health,0.42,0.46,0.27,Master,1,"Data Scientist,Business Analyst,UX Designer"
+u134,"Statistics,Excel,Java,Project Management,UI/UX","Health,Education",0.53,0.68,0.72,High School,10,"Marketing Specialist,Research Scientist,Product Manager"
+u135,"Java,Machine Learning,Python","Sports,Technology,Science",0.49,0.49,0.95,Master,7,"Research Scientist,Data Scientist,Product Manager"
+u136,"Machine Learning,Statistics,SQL,Cloud Computing",Education,0.65,0.36,0.48,Master,8,Software Engineer
+u137,"Business Strategy,Java,Leadership","Health,Management",0.93,0.34,0.91,Master,3,"Data Scientist,Research Scientist"
+u138,"Communication,Data Analysis,UI/UX","Business,Health,Management",0.44,0.68,0.39,High School,8,"Software Engineer,Product Manager,Research Scientist"
+u139,"UI/UX,Cloud Computing,Creative Writing",Science,0.58,0.61,0.57,High School,8,"UX Designer,Financial Analyst"
+u140,"Creative Writing,Python",Management,0.55,0.68,0.98,Master,7,UX Designer
+u141,"SQL,Business Strategy,Excel","Technology,Health",0.98,0.86,0.91,Master,10,"Business Analyst,Data Scientist"
+u142,"Cloud Computing,Data Analysis,Creative Writing","Science,Arts,Management",0.41,0.61,0.86,PhD,3,Software Engineer
+u143,"SQL,Project Management","Health,Science",0.39,0.62,0.25,Master,5,"Marketing Specialist,Business Analyst"
+u144,"Creative Writing,Excel,Leadership","Management,Arts,Sports",0.97,0.94,0.88,High School,6,"Software Engineer,Business Analyst,Product Manager"
+u145,"Python,Java,Business Strategy","Sports,Education",0.46,0.46,0.67,PhD,1,"Research Scientist,Financial Analyst"
+u146,"Machine Learning,Business Strategy,Communication,Project Management",Science,0.33,0.34,0.81,Bachelor,7,"Research Scientist,Financial Analyst"
+u147,"Machine Learning,Java,Python","Management,Technology",0.65,0.27,0.46,PhD,5,"Financial Analyst,UX Designer,Business Analyst"
+u148,"Cloud Computing,Java,SQL,Creative Writing",Health,0.61,0.33,0.57,PhD,6,"Marketing Specialist,Research Scientist,Financial Analyst"
+u149,"UI/UX,Business Strategy,Cloud Computing,Leadership","Science,Arts",0.61,0.52,0.55,Master,9,Data Scientist
+u150,"Data Analysis,Java,SQL,Statistics,Communication",Science,0.38,0.94,0.53,Master,4,Product Manager
+u151,"Leadership,Statistics,Java,Cloud Computing","Business,Science,Management",0.9,0.99,0.94,Master,9,"Research Scientist,UX Designer"
+u152,"Excel,Data Analysis","Sports,Technology",0.64,0.85,0.77,Bachelor,0,Research Scientist
+u153,"Java,Excel,Statistics,Python,Leadership","Technology,Sports,Arts",0.78,0.35,0.61,Master,4,"Software Engineer,Business Analyst"
+u154,"Communication,SQL,Business Strategy,Project Management","Business,Sports",0.38,0.47,0.65,Bachelor,10,"Data Scientist,Business Analyst,Product Manager"
+u155,"Statistics,Creative Writing,Project Management,Python",Arts,0.96,0.59,0.88,Master,2,"Product Manager,Research Scientist"
+u156,"Business Strategy,Excel","Business,Arts",0.57,0.36,0.86,PhD,3,Software Engineer
+u157,"Communication,Leadership,SQL,Java,Excel","Business,Technology",0.81,0.43,0.58,High School,8,Business Analyst
+u158,"Cloud Computing,Creative Writing,Leadership,SQL,Statistics",Business,0.34,0.57,0.4,Master,9,Research Scientist
+u159,"Cloud Computing,Data Analysis,SQL,Communication,Business Strategy",Arts,0.58,0.89,0.93,Bachelor,9,"Marketing Specialist,UX Designer,Business Analyst"
+u160,"Machine Learning,Java","Sports,Health",0.52,0.96,0.87,High School,1,"Software Engineer,Research Scientist"
+u161,"Excel,Machine Learning,Creative Writing",Management,0.57,0.44,0.26,Master,2,Research Scientist
+u162,"Communication,Data Analysis","Business,Health,Arts",0.38,0.61,0.76,Master,3,"Product Manager,Data Scientist,Research Scientist"
+u163,"Creative Writing,Communication",Arts,0.6,0.22,0.57,High School,5,"Data Scientist,Financial Analyst"
+u164,"Communication,Creative Writing,Leadership","Sports,Education",0.51,0.9,0.3,PhD,10,"Software Engineer,Product Manager"
+u165,"Data Analysis,Statistics,SQL,Excel",Business,0.99,0.88,0.75,Bachelor,5,"UX Designer,Business Analyst"
+u166,"Python,SQL","Sports,Arts,Education",0.53,0.34,0.38,Master,9,Software Engineer
+u167,"Communication,Java,SQL",Technology,0.39,0.86,0.94,High School,4,Marketing Specialist
+u168,"Java,Leadership,Project Management,UI/UX,Statistics","Arts,Technology,Management",0.45,0.96,0.98,Bachelor,1,"UX Designer,Data Scientist"
+u169,"Data Analysis,Excel","Arts,Health",0.51,0.34,0.99,PhD,4,"Marketing Specialist,Research Scientist,Business Analyst"
+u170,"Data Analysis,UI/UX,Creative Writing",Arts,0.77,0.68,0.92,High School,3,"Marketing Specialist,Financial Analyst,Business Analyst"
+u171,"Business Strategy,Leadership,Python,Cloud Computing",Health,0.92,0.59,0.6,Master,1,UX Designer
+u172,"Leadership,Project Management,Creative Writing,Business Strategy,Machine Learning",Education,0.29,0.82,0.26,Bachelor,5,Financial Analyst
+u173,"Creative Writing,Project Management,Statistics",Technology,0.54,0.87,0.27,PhD,7,"Business Analyst,Software Engineer"
+u174,"UI/UX,Leadership,Statistics,Business Strategy,Excel","Arts,Health",0.83,0.88,0.29,Master,7,"Research Scientist,Business Analyst"
+u175,"Creative Writing,Excel,Python,Leadership",Science,0.24,0.41,0.83,Bachelor,5,"Product Manager,Business Analyst"
+u176,"Data Analysis,UI/UX","Education,Health,Technology",0.83,0.51,0.74,Bachelor,8,"Financial Analyst,Business Analyst"
+u177,"Creative Writing,Data Analysis,Java,UI/UX,Cloud Computing","Health,Science,Arts",0.25,0.79,0.35,High School,3,"Marketing Specialist,Financial Analyst"
+u178,"Python,Machine Learning,Java,Project Management","Technology,Science",0.93,0.62,0.61,High School,2,"Product Manager,UX Designer"
+u179,"Data Analysis,Project Management,UI/UX,Cloud Computing","Business,Education",0.22,0.47,0.51,High School,7,Business Analyst
+u180,"Java,Machine Learning,Business Strategy,Cloud Computing,Communication",Business,0.63,0.41,0.55,PhD,1,Product Manager
+u181,"Creative Writing,Machine Learning,Business Strategy",Science,0.37,0.58,0.66,Bachelor,8,Business Analyst
+u182,"Data Analysis,Business Strategy,Cloud Computing,SQL,Python","Technology,Science",0.3,0.88,0.3,Master,2,Software Engineer
+u183,"SQL,UI/UX,Python","Education,Science,Sports",0.61,0.84,0.21,High School,9,Product Manager
+u184,"Python,Creative Writing,Java,Excel","Education,Health,Science",0.51,0.73,0.91,PhD,3,"Business Analyst,UX Designer,Research Scientist"
+u185,"Statistics,Creative Writing","Health,Sports,Education",0.7,0.29,0.57,PhD,0,"Product Manager,Marketing Specialist,Business Analyst"
+u186,"Java,Cloud Computing","Education,Arts",0.93,0.44,0.42,Bachelor,4,Software Engineer
+u187,"SQL,Data Analysis,Project Management","Arts,Education",0.4,0.22,0.83,Bachelor,8,"Marketing Specialist,Software Engineer"
+u188,"Data Analysis,Statistics","Arts,Education,Sports",1.0,0.9,0.65,PhD,3,Business Analyst
+u189,"Java,Python,Cloud Computing,SQL","Business,Education,Arts",0.93,0.91,0.74,Bachelor,10,"UX Designer,Software Engineer,Research Scientist"
+u190,"Leadership,UI/UX,Data Analysis,Communication,Machine Learning","Business,Arts,Health",0.27,0.78,0.23,Master,7,Product Manager
+u191,"Statistics,Cloud Computing,Leadership,Machine Learning",Business,0.77,0.85,0.84,High School,7,Financial Analyst
+u192,"Statistics,Machine Learning,Java,Python,Cloud Computing","Technology,Health",0.46,0.42,0.55,High School,5,"Research Scientist,Product Manager,Business Analyst"
+u193,"UI/UX,Project Management,Excel","Technology,Health",0.48,0.7,0.47,Bachelor,7,"Marketing Specialist,Financial Analyst"
+u194,"Cloud Computing,SQL,Business Strategy,Leadership","Technology,Business,Management",0.58,0.62,0.58,PhD,10,Data Scientist
+u195,"Leadership,Python,Cloud Computing,Creative Writing","Science,Health",0.86,0.7,0.28,PhD,1,UX Designer
+u196,"Communication,SQL","Management,Science",0.78,0.58,0.46,High School,5,"Financial Analyst,Software Engineer,Product Manager"
+u197,"Statistics,Data Analysis,Project Management","Business,Science,Technology",0.83,0.91,0.86,High School,6,"Research Scientist,Marketing Specialist"
+u198,"UI/UX,Python,Excel","Education,Business",0.29,0.72,0.82,Bachelor,5,"Marketing Specialist,Software Engineer,Research Scientist"
+u199,"UI/UX,Java,Creative Writing","Education,Sports,Management",0.35,0.95,0.98,PhD,10,Financial Analyst
+u200,"Java,Excel",Arts,0.5,0.84,0.53,Bachelor,7,"Marketing Specialist,Data Scientist"
+u201,"Java,Python,Creative Writing,SQL,Statistics","Sports,Management,Arts",0.58,0.52,0.87,Bachelor,5,Business Analyst
+u202,"Business Strategy,Data Analysis,Machine Learning,SQL,Java","Science,Arts,Sports",0.64,0.85,0.74,High School,1,UX Designer
+u203,"SQL,Java,Excel,Python","Business,Science",0.38,0.47,0.43,Bachelor,4,"Research Scientist,Product Manager"
+u204,"Cloud Computing,Python",Business,0.37,0.23,0.23,High School,8,Software Engineer
+u205,"Cloud Computing,Business Strategy,Java","Arts,Business,Management",0.95,0.23,0.32,Bachelor,9,"UX Designer,Research Scientist,Marketing Specialist"
+u206,"Machine Learning,Cloud Computing,Excel,Project Management",Science,0.72,0.5,0.92,Master,2,"Software Engineer,Product Manager"
+u207,"UI/UX,Excel,Business Strategy","Arts,Management,Business",0.92,0.83,0.78,Bachelor,3,"UX Designer,Product Manager"
+u208,"SQL,Excel,Data Analysis","Technology,Science",0.55,0.98,0.44,Bachelor,8,"Data Scientist,Software Engineer,Product Manager"
+u209,"Machine Learning,Cloud Computing,Project Management,Creative Writing","Health,Science,Arts",0.53,0.63,0.68,Master,9,"UX Designer,Data Scientist,Business Analyst"
+u210,"UI/UX,Business Strategy,Cloud Computing,Statistics,Data Analysis","Arts,Health",0.94,0.59,0.62,High School,9,"Marketing Specialist,Software Engineer,Business Analyst"
+u211,"Business Strategy,SQL,UI/UX,Project Management","Management,Business",0.77,0.37,0.73,Bachelor,7,"Software Engineer,Research Scientist"
+u212,"Leadership,Excel",Technology,0.47,0.74,0.67,PhD,4,"Financial Analyst,UX Designer"
+u213,"Leadership,Data Analysis,Business Strategy,Statistics","Management,Education,Technology",0.82,0.51,0.78,Bachelor,3,"UX Designer,Data Scientist,Marketing Specialist"
+u214,"Excel,Java","Arts,Management,Business",0.67,0.28,0.42,High School,3,"Financial Analyst,Business Analyst"
+u215,"Communication,Leadership,Statistics,Creative Writing,Excel","Technology,Business,Arts",0.86,0.97,0.31,Bachelor,5,"Research Scientist,Data Scientist"
+u216,"Cloud Computing,Data Analysis,UI/UX,Business Strategy","Business,Arts,Education",0.75,0.84,0.31,Master,1,Research Scientist
+u217,"Statistics,Communication,Java,Excel","Education,Sports",0.92,0.74,0.36,PhD,2,"Marketing Specialist,Data Scientist"
+u218,"SQL,Python,Creative Writing,Machine Learning,UI/UX",Education,0.48,0.24,0.84,High School,0,"Business Analyst,Data Scientist"
+u219,"Java,Cloud Computing,Communication,Statistics",Management,0.87,0.7,0.5,Bachelor,5,UX Designer
+u220,"Communication,Creative Writing,Cloud Computing,Data Analysis",Technology,0.71,0.2,0.91,Master,8,"Product Manager,Financial Analyst,Data Scientist"
+u221,"UI/UX,Excel,Project Management,SQL","Education,Sports",0.7,0.5,0.62,PhD,4,"Data Scientist,Product Manager,Software Engineer"
+u222,"Java,UI/UX","Health,Science,Arts",0.2,0.6,0.55,PhD,3,"Research Scientist,Marketing Specialist,Product Manager"
+u223,"Excel,SQL,Data Analysis,Python,Leadership","Business,Technology",0.36,0.93,0.61,High School,10,"Product Manager,Software Engineer,Financial Analyst"
+u224,"Excel,Communication","Science,Technology,Business",0.99,0.98,0.55,PhD,0,"Software Engineer,Research Scientist"
+u225,"Machine Learning,Statistics,Excel","Education,Arts",0.72,0.82,0.66,Bachelor,0,"Business Analyst,Marketing Specialist"
+u226,"Machine Learning,Excel,UI/UX,Java,Leadership","Education,Management,Sports",0.83,0.35,0.43,Master,0,Software Engineer
+u227,"Creative Writing,Machine Learning,Cloud Computing",Arts,0.65,0.8,0.23,Master,8,"UX Designer,Marketing Specialist,Data Scientist"
+u228,"Project Management,Python,Data Analysis",Science,0.53,0.61,0.67,Bachelor,0,Marketing Specialist
+u229,"Machine Learning,SQL","Management,Arts,Health",0.92,0.66,0.54,Bachelor,6,"Financial Analyst,Research Scientist"
+u230,"Data Analysis,Business Strategy,Python,Machine Learning,Project Management",Business,0.22,0.73,0.74,Master,4,"Financial Analyst,Business Analyst,Research Scientist"
+u231,"UI/UX,Statistics,Java,SQL","Management,Technology",1.0,0.24,0.73,PhD,3,"Software Engineer,Financial Analyst,Data Scientist"
+u232,"Creative Writing,Communication","Science,Health,Education",0.47,0.67,0.32,High School,0,"Business Analyst,Product Manager,Data Scientist"
+u233,"Excel,Business Strategy,Project Management,Cloud Computing","Technology,Management",0.21,0.6,0.29,PhD,9,Product Manager
+u234,"Creative Writing,SQL","Technology,Health,Education",0.65,0.76,0.57,High School,7,Research Scientist
+u235,"Data Analysis,SQL,Creative Writing,Cloud Computing,Project Management","Science,Arts",0.5,0.78,0.33,Bachelor,8,UX Designer
+u236,"Communication,Cloud Computing,Leadership","Education,Science,Business",0.37,0.53,0.99,PhD,10,"Software Engineer,Research Scientist,Product Manager"
+u237,"UI/UX,Project Management",Health,0.76,0.37,0.39,PhD,4,Research Scientist
+u238,"UI/UX,Statistics","Technology,Business",0.91,0.27,0.81,PhD,9,Software Engineer
+u239,"Business Strategy,Cloud Computing,SQL","Health,Science,Sports",0.76,0.83,0.64,Master,4,"Business Analyst,Financial Analyst"
+u240,"Business Strategy,Leadership,UI/UX,Communication,Cloud Computing",Technology,0.94,0.41,0.9,PhD,1,"UX Designer,Software Engineer,Data Scientist"
+u241,"Communication,UI/UX,Java,Statistics","Arts,Sports,Education",0.86,0.41,0.88,High School,4,"Financial Analyst,Research Scientist"
+u242,"SQL,Business Strategy,Data Analysis,UI/UX,Java",Health,0.73,0.65,0.42,Master,8,Data Scientist
+u243,"Business Strategy,Communication,Leadership",Sports,0.23,0.46,0.43,High School,8,"UX Designer,Marketing Specialist,Research Scientist"
+u244,"Statistics,Creative Writing,Project Management,SQL","Technology,Arts",0.46,0.27,0.54,Bachelor,1,"Business Analyst,UX Designer,Product Manager"
+u245,"Statistics,Leadership",Arts,0.62,0.6,0.5,Master,4,Software Engineer
+u246,"Leadership,Java,SQL,Communication,Python","Management,Sports,Technology",0.33,0.8,0.71,Master,0,"Data Scientist,Software Engineer"
+u247,"Statistics,Data Analysis,UI/UX","Health,Sports",1.0,0.24,0.53,Bachelor,8,"UX Designer,Business Analyst"
+u248,"Statistics,UI/UX,Creative Writing,Machine Learning",Business,0.63,0.34,0.36,Bachelor,0,"Product Manager,Marketing Specialist"
+u249,"Statistics,Data Analysis,Business Strategy,Leadership,Machine Learning","Business,Education",0.26,0.79,0.57,Bachelor,5,"Business Analyst,Marketing Specialist"
+u250,"Business Strategy,Cloud Computing,Leadership,Java,Creative Writing",Arts,0.21,0.42,0.25,PhD,3,Business Analyst
+u251,"Cloud Computing,Creative Writing,Project Management,Machine Learning","Management,Arts",0.45,0.34,0.62,High School,8,Product Manager
+u252,"Communication,UI/UX,Statistics",Management,0.37,0.54,0.45,Master,5,"Business Analyst,Software Engineer"
+u253,"UI/UX,Java,Business Strategy,Python,Leadership","Arts,Science,Sports",0.95,0.55,0.42,High School,9,"Product Manager,Business Analyst,Data Scientist"
+u254,"Business Strategy,Leadership,UI/UX,SQL,Python",Sports,0.81,0.75,0.65,Bachelor,5,"UX Designer,Business Analyst"
+u255,"Cloud Computing,SQL,Creative Writing,Python","Management,Business",0.45,0.7,0.79,Master,7,Marketing Specialist
+u256,"Communication,Leadership,Statistics,SQL",Sports,0.87,0.76,0.29,Bachelor,3,Research Scientist
+u257,"Java,UI/UX,Project Management",Management,0.76,0.85,0.73,Bachelor,9,"Product Manager,Marketing Specialist"
+u258,"Communication,SQL","Business,Sports",0.2,0.64,0.59,Bachelor,10,UX Designer
+u259,"Data Analysis,Project Management","Business,Health",0.49,0.21,0.96,Bachelor,3,Marketing Specialist
+u260,"Leadership,Python,Project Management,Statistics,Creative Writing",Business,0.77,0.54,0.96,High School,10,UX Designer
+u261,"Project Management,Leadership,Business Strategy,UI/UX,Excel","Technology,Business",0.94,0.26,0.84,Bachelor,3,Financial Analyst
+u262,"Project Management,SQL,Leadership","Sports,Science",0.64,0.82,0.43,Bachelor,4,UX Designer
+u263,"Creative Writing,Machine Learning,SQL,Leadership",Arts,0.85,0.74,0.43,High School,8,"Financial Analyst,Product Manager"
+u264,"Statistics,Excel,Business Strategy,Cloud Computing,Java","Science,Business,Education",0.45,0.44,0.32,Bachelor,4,Data Scientist
+u265,"SQL,Cloud Computing",Education,0.69,0.83,0.76,High School,6,Business Analyst
+u266,"SQL,Leadership,Machine Learning,UI/UX,Project Management","Technology,Health",0.38,0.41,0.39,Master,6,Business Analyst
+u267,"Excel,Python,SQL,Communication","Education,Management,Science",0.98,0.86,0.89,Master,1,"Product Manager,Financial Analyst,Data Scientist"
+u268,"Leadership,Cloud Computing,SQL,Java",Management,0.99,0.59,0.54,PhD,1,"Business Analyst,Research Scientist"
+u269,"Communication,Leadership,Data Analysis","Health,Sports,Science",0.92,0.6,0.74,PhD,4,"UX Designer,Data Scientist"
+u270,"Project Management,Business Strategy,Excel","Science,Management",0.91,0.92,0.47,High School,2,"UX Designer,Marketing Specialist,Financial Analyst"
+u271,"Communication,Creative Writing,Cloud Computing,Statistics",Technology,0.68,0.57,0.99,High School,10,Marketing Specialist
+u272,"Statistics,Leadership,Machine Learning,Data Analysis",Sports,0.55,0.4,0.91,PhD,7,"Financial Analyst,Product Manager,Data Scientist"
+u273,"Creative Writing,Leadership,Data Analysis",Science,0.36,0.71,0.75,PhD,10,Business Analyst
+u274,"Java,Excel,Python,Data Analysis,Cloud Computing",Health,0.97,0.54,0.71,Bachelor,6,"Financial Analyst,Research Scientist"
+u275,"UI/UX,Data Analysis,Communication","Education,Business,Technology",0.35,0.39,0.57,Bachelor,6,Financial Analyst
+u276,"Statistics,Leadership","Sports,Education,Health",0.41,0.71,0.51,PhD,9,Data Scientist
+u277,"Communication,Cloud Computing,Leadership,Java",Health,0.67,0.38,0.73,Master,10,"Software Engineer,Product Manager"
+u278,"Java,Python","Arts,Management,Science",0.4,0.4,0.98,High School,8,"Business Analyst,Product Manager,Data Scientist"
+u279,"Machine Learning,UI/UX,Data Analysis,Business Strategy,Creative Writing","Science,Technology",0.91,0.33,0.9,Bachelor,1,Research Scientist
+u280,"Statistics,Java,Excel,Communication,Business Strategy","Sports,Education,Health",0.86,0.61,0.84,Master,1,Marketing Specialist
+u281,"UI/UX,Java,Creative Writing","Education,Management,Arts",0.58,0.69,0.79,High School,2,"Marketing Specialist,Data Scientist"
+u282,"Cloud Computing,Creative Writing,Machine Learning,Java","Education,Management",0.79,0.92,0.31,Bachelor,10,"Research Scientist,Business Analyst,Marketing Specialist"
+u283,"Python,SQL,Statistics",Technology,0.56,0.95,0.55,High School,6,"Marketing Specialist,Financial Analyst"
+u284,"Java,Business Strategy,Creative Writing,Statistics","Sports,Education,Health",0.54,0.45,0.79,Bachelor,3,"Financial Analyst,UX Designer,Marketing Specialist"
+u285,"Communication,Project Management,Statistics,Data Analysis",Health,0.37,0.98,0.98,Master,2,"Financial Analyst,Research Scientist"
+u286,"Python,Statistics,Business Strategy,Java,Creative Writing",Technology,0.26,0.67,0.58,PhD,4,"UX Designer,Research Scientist"
+u287,"Statistics,Business Strategy",Arts,0.37,0.62,0.66,Bachelor,3,UX Designer
+u288,"Data Analysis,Business Strategy,Statistics","Sports,Education",0.67,0.55,0.9,High School,8,"UX Designer,Product Manager"
+u289,"Data Analysis,Excel,Java,Cloud Computing","Arts,Sports,Education",0.67,0.77,0.33,Bachelor,6,"Research Scientist,Product Manager"
+u290,"Excel,UI/UX,Leadership,SQL",Arts,0.9,0.92,0.91,PhD,8,Software Engineer
+u291,"Creative Writing,Communication","Business,Health,Education",0.45,0.49,0.8,High School,8,"Data Scientist,Marketing Specialist"
+u292,"SQL,UI/UX,Machine Learning,Business Strategy",Health,0.49,0.8,0.37,PhD,2,Data Scientist
+u293,"Machine Learning,Data Analysis,Excel,SQL","Sports,Arts,Science",0.94,0.99,0.23,High School,6,"Marketing Specialist,Business Analyst,Research Scientist"
+u294,"Java,UI/UX,Python,Communication","Sports,Education,Health",0.38,0.65,0.24,Master,6,"Business Analyst,Research Scientist,Financial Analyst"
+u295,"SQL,Creative Writing",Business,0.38,0.39,0.22,Bachelor,2,Data Scientist
+u296,"Communication,Project Management,Java,Leadership","Science,Sports,Management",0.9,0.91,0.7,Master,10,"Research Scientist,Data Scientist"
+u297,"Data Analysis,Java,Communication,SQL,Creative Writing","Health,Sports,Education",0.5,0.94,0.25,PhD,1,"Data Scientist,Software Engineer"
+u298,"Leadership,Data Analysis,Creative Writing","Arts,Health",0.63,0.88,0.37,Bachelor,8,Business Analyst
+u299,"Communication,Data Analysis,Machine Learning","Technology,Business,Science",0.66,0.27,0.51,PhD,9,Data Scientist
+u300,"Communication,SQL",Management,0.37,0.63,0.93,Bachelor,3,"Product Manager,Data Scientist"
+u301,"Creative Writing,Java,Machine Learning",Sports,0.78,0.49,0.28,PhD,3,"Data Scientist,Financial Analyst,UX Designer"
+u302,"Python,Business Strategy","Health,Arts,Sports",0.21,0.55,0.47,Bachelor,6,Product Manager
+u303,"Machine Learning,Creative Writing","Arts,Education",0.9,0.24,0.22,High School,7,Financial Analyst
+u304,"Project Management,Leadership",Sports,0.3,0.49,0.73,High School,0,"UX Designer,Software Engineer"
+u305,"Excel,Project Management","Science,Technology",0.24,0.5,0.99,PhD,1,"Financial Analyst,UX Designer,Product Manager"
+u306,"Excel,Cloud Computing,Python",Business,0.65,0.79,0.32,Master,6,Data Scientist
+u307,"Project Management,Data Analysis,Python,Excel,Machine Learning","Technology,Business",0.67,0.87,0.57,Bachelor,8,"Data Scientist,Research Scientist"
+u308,"Machine Learning,Business Strategy","Arts,Technology,Health",0.44,0.42,0.37,Master,4,"Research Scientist,Data Scientist,Product Manager"
+u309,"Excel,Creative Writing,Python",Technology,0.73,0.42,1.0,Master,7,"UX Designer,Financial Analyst"
+u310,"Business Strategy,Communication","Technology,Science",0.54,0.7,0.86,PhD,7,"Data Scientist,Marketing Specialist,Product Manager"
+u311,"Cloud Computing,Java,Business Strategy,Machine Learning","Education,Health",0.82,0.22,0.29,PhD,1,"UX Designer,Business Analyst,Product Manager"
+u312,"SQL,UI/UX,Creative Writing",Arts,0.56,0.73,0.6,Bachelor,8,"Product Manager,UX Designer"
+u313,"Business Strategy,Excel","Management,Arts",0.98,0.32,0.26,High School,10,"Product Manager,Software Engineer"
+u314,"Data Analysis,Cloud Computing",Sports,0.98,0.64,0.44,High School,4,Business Analyst
+u315,"Communication,Java,Leadership","Education,Management",0.98,0.97,0.82,Bachelor,5,"Data Scientist,Financial Analyst,Software Engineer"
+u316,"Machine Learning,Creative Writing","Business,Education,Management",0.95,0.57,0.7,Master,0,"Software Engineer,Business Analyst"
+u317,"Business Strategy,Java,Communication","Arts,Management",0.87,0.21,0.64,PhD,10,"Research Scientist,Business Analyst,Marketing Specialist"
+u318,"Project Management,Leadership,Machine Learning",Health,0.55,0.86,0.68,High School,1,"Research Scientist,Business Analyst,Marketing Specialist"
+u319,"SQL,Leadership,UI/UX","Education,Management,Business",0.41,0.69,0.75,High School,10,Business Analyst
+u320,"Python,Java,Project Management",Science,0.26,0.71,0.9,High School,4,Financial Analyst
+u321,"Java,Communication,Python,Cloud Computing","Health,Management",0.9,0.3,0.8,Master,7,UX Designer
+u322,"Excel,Java,Creative Writing,Data Analysis",Education,0.21,0.63,0.21,Master,1,Software Engineer
+u323,"Statistics,UI/UX",Business,0.72,0.77,0.85,High School,2,"Software Engineer,Data Scientist,Marketing Specialist"
+u324,"Java,Python,Statistics","Technology,Business",0.85,0.99,0.43,PhD,0,"Financial Analyst,Product Manager,Business Analyst"
+u325,"Python,Cloud Computing,Creative Writing,Business Strategy",Business,0.67,0.28,0.58,PhD,5,Marketing Specialist
+u326,"Project Management,Communication,Leadership","Science,Technology,Sports",0.5,0.69,0.32,PhD,0,Data Scientist
+u327,"Java,Creative Writing","Arts,Business",0.63,0.83,0.27,PhD,6,Software Engineer
+u328,"Project Management,SQL",Business,0.39,0.46,0.97,Bachelor,7,"Data Scientist,Research Scientist,Product Manager"
+u329,"Statistics,Leadership","Technology,Arts,Sports",0.3,0.58,0.77,PhD,1,Business Analyst
+u330,"Creative Writing,Communication,SQL","Business,Education",0.52,0.56,0.64,High School,3,"Marketing Specialist,Business Analyst,Financial Analyst"
+u331,"Python,Statistics,Machine Learning","Sports,Science",0.42,0.23,0.45,High School,10,"Software Engineer,Research Scientist"
+u332,"Creative Writing,Project Management",Education,0.21,0.92,0.97,High School,9,Software Engineer
+u333,"Communication,Statistics",Business,0.93,0.62,0.66,Master,3,Research Scientist
+u334,"Excel,Creative Writing","Science,Technology,Management",0.93,0.41,0.42,High School,2,"Business Analyst,UX Designer,Product Manager"
+u335,"SQL,Business Strategy,Python,Excel","Science,Management,Business",0.24,0.3,0.64,Master,3,Research Scientist
+u336,"SQL,Cloud Computing,Project Management,Statistics,Business Strategy","Management,Sports",0.84,0.62,0.62,Bachelor,5,"Research Scientist,Business Analyst"
+u337,"UI/UX,Java","Management,Sports,Technology",0.81,0.26,0.41,High School,0,UX Designer
+u338,"Java,Communication","Arts,Technology,Education",0.63,0.51,0.89,PhD,0,UX Designer
+u339,"Communication,Java,Project Management,Data Analysis",Business,0.41,0.99,0.33,PhD,5,UX Designer
+u340,"Creative Writing,Statistics,UI/UX","Science,Health,Management",0.62,0.99,0.21,Master,5,"Research Scientist,Product Manager"
+u341,"Project Management,Business Strategy,Creative Writing,Communication,Statistics","Technology,Health",0.71,0.33,0.29,High School,0,Financial Analyst
+u342,"Business Strategy,Python",Science,0.57,0.61,0.22,PhD,6,Financial Analyst
+u343,"Cloud Computing,Communication",Arts,0.29,0.6,0.9,PhD,6,"Marketing Specialist,Business Analyst"
+u344,"Leadership,Statistics",Business,0.64,0.42,0.41,Master,9,"Product Manager,Financial Analyst,Software Engineer"
+u345,"SQL,Leadership",Business,0.86,0.96,0.8,High School,3,Business Analyst
+u346,"Excel,SQL,Project Management",Education,0.89,0.87,0.94,High School,10,"Product Manager,Business Analyst,Marketing Specialist"
+u347,"Creative Writing,Business Strategy","Sports,Business,Education",0.3,0.39,0.47,Master,6,Financial Analyst
+u348,"SQL,Machine Learning,Data Analysis,Creative Writing","Science,Business",0.41,0.75,0.79,PhD,7,"Data Scientist,UX Designer,Research Scientist"
+u349,"Machine Learning,Leadership,Excel,Python","Arts,Sports",0.44,0.46,0.27,Bachelor,9,Business Analyst
+u350,"Excel,Data Analysis,Cloud Computing,Business Strategy,Java",Health,0.98,0.31,0.3,Bachelor,6,"Business Analyst,Software Engineer,Research Scientist"
+u351,"Creative Writing,Project Management,Data Analysis,Business Strategy,Machine Learning","Science,Sports,Health",0.64,0.98,0.91,High School,1,Data Scientist
+u352,"Statistics,Machine Learning,Java,Creative Writing","Management,Business,Technology",0.97,0.65,0.63,High School,7,"Financial Analyst,Marketing Specialist,Research Scientist"
+u353,"Communication,Java,Excel,Leadership,Cloud Computing",Health,0.2,0.37,0.72,High School,5,"Financial Analyst,Product Manager"
+u354,"SQL,Excel,Machine Learning","Sports,Science",0.97,0.39,0.35,PhD,2,Product Manager
+u355,"Business Strategy,Excel","Business,Education,Arts",0.77,0.27,0.38,Bachelor,8,"Marketing Specialist,Financial Analyst"
+u356,"Cloud Computing,Data Analysis,Leadership,Machine Learning",Science,0.66,0.83,0.77,PhD,10,Business Analyst
+u357,"Java,Statistics","Technology,Management",0.61,0.37,0.53,High School,1,Software Engineer
+u358,"Data Analysis,Leadership,Project Management,SQL","Business,Management",0.88,0.66,0.68,PhD,1,Software Engineer
+u359,"Cloud Computing,Business Strategy","Education,Management",0.62,0.25,0.79,PhD,2,"Data Scientist,Financial Analyst,Business Analyst"
+u360,"Statistics,Communication,Machine Learning","Management,Education,Health",0.66,0.91,0.35,Bachelor,5,Software Engineer
+u361,"Machine Learning,Creative Writing","Science,Sports,Management",0.88,0.84,0.85,PhD,2,"Software Engineer,Marketing Specialist,Financial Analyst"
+u362,"SQL,UI/UX,Python,Java,Data Analysis",Sports,0.55,0.28,0.94,Bachelor,10,"Software Engineer,Data Scientist"
+u363,"Data Analysis,Project Management,Java","Science,Arts,Business",0.53,0.66,0.38,High School,9,"Data Scientist,Financial Analyst,Product Manager"
+u364,"Creative Writing,Communication,Data Analysis","Health,Sports",0.67,0.41,0.99,PhD,6,"UX Designer,Research Scientist,Product Manager"
+u365,"Machine Learning,Java","Management,Business,Health",0.54,0.37,0.81,High School,6,"Marketing Specialist,Research Scientist,Financial Analyst"
+u366,"Leadership,UI/UX,Communication,Java,Business Strategy",Management,0.68,0.26,0.22,Bachelor,9,Product Manager
+u367,"Creative Writing,Python","Sports,Management,Technology",0.29,0.6,0.83,Bachelor,10,"Data Scientist,Research Scientist,Business Analyst"
+u368,"Communication,Python,Cloud Computing",Science,0.55,0.57,0.56,PhD,10,"Data Scientist,UX Designer"
+u369,"Creative Writing,Data Analysis,Statistics,Cloud Computing,Leadership","Arts,Science",0.96,0.93,0.58,PhD,0,Data Scientist
+u370,"Statistics,Cloud Computing,Data Analysis,SQL",Technology,0.79,0.93,0.85,High School,1,"Business Analyst,Product Manager,Software Engineer"
+u371,"Business Strategy,Leadership,Excel",Education,0.4,0.99,0.98,Bachelor,3,Product Manager
+u372,"Python,Cloud Computing,Excel,Creative Writing,Leadership","Science,Arts",0.26,0.21,0.98,High School,0,Financial Analyst
+u373,"Business Strategy,Cloud Computing,Java",Education,0.86,0.27,0.72,High School,0,"Financial Analyst,Marketing Specialist,Software Engineer"
+u374,"Communication,Statistics,UI/UX,Business Strategy,SQL","Business,Health,Management",0.58,0.73,0.58,High School,3,"Financial Analyst,UX Designer"
+u375,"Machine Learning,Data Analysis,Statistics,Cloud Computing,Business Strategy","Business,Arts",0.6,0.8,0.86,PhD,10,"Product Manager,Financial Analyst"
+u376,"Python,Business Strategy,Project Management,Machine Learning","Business,Technology",0.54,0.54,0.48,High School,7,"Data Scientist,Product Manager"
+u377,"Java,UI/UX,Excel,Communication",Technology,0.22,0.23,0.5,High School,6,"Research Scientist,Business Analyst,Marketing Specialist"
+u378,"Python,Cloud Computing,SQL","Science,Sports",0.42,0.5,0.39,Master,9,"Software Engineer,UX Designer"
+u379,"Machine Learning,Python,Communication,Cloud Computing,Excel","Health,Management",0.95,0.89,0.52,PhD,7,"Marketing Specialist,Business Analyst"
+u380,"Machine Learning,UI/UX",Arts,0.48,0.83,0.67,Bachelor,2,"Research Scientist,Financial Analyst"
+u381,"Leadership,Data Analysis,UI/UX,Statistics,Machine Learning","Business,Management",0.23,0.29,0.97,Bachelor,9,"Marketing Specialist,UX Designer,Software Engineer"
+u382,"Excel,Python,UI/UX,Java,Statistics","Technology,Health,Arts",0.56,1.0,0.79,Master,1,Data Scientist
+u383,"SQL,Statistics","Technology,Arts",0.28,0.86,0.4,Master,9,"Financial Analyst,Research Scientist,Marketing Specialist"
+u384,"Java,Statistics","Technology,Management",0.82,0.73,0.89,Master,1,"Business Analyst,Software Engineer"
+u385,"Communication,Creative Writing","Science,Arts,Health",0.41,0.27,0.75,Master,2,"UX Designer,Product Manager"
+u386,"Python,SQL,Creative Writing,Leadership,UI/UX","Management,Health,Sports",0.47,0.49,0.84,PhD,1,"Marketing Specialist,Business Analyst,Data Scientist"
+u387,"Creative Writing,Communication,Machine Learning","Science,Education,Health",0.61,0.28,0.85,High School,2,"Data Scientist,Financial Analyst"
+u388,"Statistics,Data Analysis",Sports,0.97,0.26,0.87,Master,9,Business Analyst
+u389,"UI/UX,Java,Statistics,SQL","Arts,Sports",0.93,0.49,0.67,Bachelor,2,Data Scientist
+u390,"Creative Writing,Excel,UI/UX,Communication,Python",Arts,0.71,0.95,0.92,Master,7,"Business Analyst,Data Scientist"
+u391,"Leadership,Cloud Computing","Arts,Business,Technology",0.38,0.9,0.39,Bachelor,0,"Research Scientist,Product Manager"
+u392,"UI/UX,Java","Arts,Education,Sports",0.92,0.28,0.99,Bachelor,0,"Product Manager,Research Scientist"
+u393,"Data Analysis,Creative Writing,Project Management,SQL","Business,Management,Education",0.24,0.63,0.9,Master,0,Product Manager
+u394,"SQL,Business Strategy,Data Analysis,Statistics","Technology,Health,Arts",0.38,0.92,0.55,Bachelor,1,"Marketing Specialist,Research Scientist"
+u395,"Leadership,UI/UX,Statistics,Cloud Computing",Business,0.68,0.7,0.7,Bachelor,5,"Software Engineer,Business Analyst"
+u396,"Project Management,SQL","Health,Management",0.74,0.69,0.69,High School,6,"Research Scientist,Marketing Specialist,Financial Analyst"
+u397,"Machine Learning,Python,Data Analysis,Cloud Computing,Excel",Education,0.85,0.87,0.72,Master,2,Financial Analyst
+u398,"UI/UX,Java,Business Strategy,Cloud Computing","Arts,Science,Health",0.83,0.33,0.58,Bachelor,1,"Marketing Specialist,Data Scientist"
+u399,"Statistics,Python,Machine Learning",Health,0.72,0.26,0.76,PhD,4,Data Scientist
+u400,"Python,Data Analysis","Education,Technology,Sports",0.47,0.84,0.67,PhD,9,"Product Manager,Business Analyst"
+u401,"Project Management,Data Analysis,Communication,Excel","Technology,Arts",0.41,0.88,0.29,PhD,9,UX Designer
+u402,"Creative Writing,Python","Arts,Sports",0.23,0.41,0.49,Bachelor,0,Product Manager
+u403,"SQL,Java,Statistics,Leadership",Health,0.46,0.36,0.78,PhD,8,"Financial Analyst,UX Designer"
+u404,"Cloud Computing,Statistics,Python,Data Analysis","Education,Business",0.33,0.91,0.92,PhD,9,"Software Engineer,Financial Analyst,Research Scientist"
+u405,"Statistics,Project Management,Machine Learning","Management,Technology,Education",0.36,0.39,0.44,Bachelor,2,Financial Analyst
+u406,"Python,Creative Writing,Java,Data Analysis,Machine Learning","Arts,Management,Technology",0.95,0.81,0.28,High School,2,"Business Analyst,UX Designer,Financial Analyst"
+u407,"Data Analysis,SQL,Python,Cloud Computing,UI/UX",Management,0.29,0.68,0.99,Master,1,"UX Designer,Business Analyst,Marketing Specialist"
+u408,"Statistics,Creative Writing,Business Strategy","Management,Science",0.58,0.98,0.69,High School,2,"Research Scientist,Marketing Specialist"
+u409,"Cloud Computing,Machine Learning,Excel",Health,0.98,0.88,0.45,PhD,1,"Marketing Specialist,Research Scientist,UX Designer"
+u410,"Java,Excel,Statistics,Cloud Computing","Technology,Health",0.24,0.99,0.81,Master,5,Research Scientist
+u411,"Excel,Python","Technology,Health",0.95,0.45,0.39,Master,1,"Product Manager,Data Scientist,Business Analyst"
+u412,"Excel,Leadership,SQL,Data Analysis,Communication","Education,Management",0.91,0.63,0.96,Master,5,"Business Analyst,Marketing Specialist,Product Manager"
+u413,"Project Management,Statistics,Leadership,Creative Writing,Business Strategy",Education,0.62,0.75,0.32,Master,6,UX Designer
+u414,"SQL,Creative Writing","Sports,Education,Technology",0.31,0.81,0.55,PhD,4,"Business Analyst,Financial Analyst"
+u415,"Creative Writing,Cloud Computing","Sports,Technology,Education",0.9,0.44,0.74,Master,7,Product Manager
+u416,"Data Analysis,Statistics,Java,Communication","Education,Business",0.64,0.42,0.85,Bachelor,4,"UX Designer,Business Analyst"
+u417,"SQL,Project Management,Business Strategy,Java,Data Analysis","Sports,Management",0.79,0.33,0.51,Bachelor,7,"UX Designer,Financial Analyst"
+u418,"Cloud Computing,Excel,Communication,Creative Writing","Science,Technology,Arts",0.31,0.48,0.28,Master,7,"Business Analyst,Data Scientist,Software Engineer"
+u419,"Java,Data Analysis,Statistics,Cloud Computing,Project Management",Technology,0.52,0.58,0.36,Bachelor,0,"Software Engineer,Financial Analyst"
+u420,"Statistics,Data Analysis,Leadership",Education,0.89,0.34,0.64,Master,0,"Software Engineer,Research Scientist,Financial Analyst"
+u421,"Leadership,Creative Writing,Project Management,Statistics",Business,0.75,0.43,0.96,Master,6,"Business Analyst,UX Designer"
+u422,"Statistics,Project Management,Business Strategy,Cloud Computing","Science,Management,Health",0.72,0.93,0.63,High School,8,"Product Manager,UX Designer,Research Scientist"
+u423,"UI/UX,Cloud Computing,Machine Learning","Arts,Sports,Education",0.24,0.96,0.8,High School,6,"Data Scientist,Financial Analyst,Marketing Specialist"
+u424,"Creative Writing,Data Analysis,UI/UX,Project Management,Python",Arts,0.96,0.37,0.29,High School,3,"Software Engineer,Financial Analyst"
+u425,"Creative Writing,Cloud Computing","Education,Business,Health",0.3,0.9,0.35,PhD,7,UX Designer
+u426,"Business Strategy,Python,Leadership,Communication","Health,Education",0.79,0.26,0.27,Master,6,"Research Scientist,Financial Analyst,Data Scientist"
+u427,"Communication,Excel","Business,Sports",0.48,0.77,0.72,Bachelor,4,UX Designer
+u428,"Excel,Python","Education,Sports",0.25,0.24,0.22,Master,9,"Business Analyst,Data Scientist,Marketing Specialist"
+u429,"Project Management,Statistics","Management,Science,Technology",0.37,0.66,0.4,PhD,8,"Data Scientist,UX Designer,Software Engineer"
+u430,"Creative Writing,Cloud Computing,Machine Learning,Excel","Sports,Arts,Management",0.67,0.22,0.75,Bachelor,3,"Marketing Specialist,Product Manager"
+u431,"Excel,UI/UX","Business,Science,Management",0.31,0.68,0.9,PhD,2,Business Analyst
+u432,"Creative Writing,Java,Business Strategy","Business,Education",0.57,0.8,0.9,Bachelor,6,"Business Analyst,Product Manager"
+u433,"Statistics,Leadership,Business Strategy,SQL","Science,Arts",0.26,0.73,0.73,Master,6,"Research Scientist,Business Analyst"
+u434,"Excel,Machine Learning,UI/UX","Education,Management",0.93,0.85,0.91,Bachelor,2,"Data Scientist,Research Scientist,Marketing Specialist"
+u435,"Business Strategy,Data Analysis,Creative Writing,SQL",Business,0.29,0.26,1.0,High School,8,"Software Engineer,Business Analyst"
+u436,"Machine Learning,Communication,Cloud Computing,SQL,Statistics","Science,Business",0.74,0.38,0.86,Bachelor,1,Software Engineer
+u437,"Python,Communication,SQL","Sports,Business,Arts",0.89,0.59,0.98,Master,10,"Software Engineer,Data Scientist,Business Analyst"
+u438,"Communication,Machine Learning,SQL,Python","Education,Sports,Technology",0.67,0.64,0.96,Master,5,Software Engineer
+u439,"Leadership,Python,Excel,SQL","Education,Business,Science",0.49,0.46,0.89,PhD,4,"Research Scientist,Marketing Specialist,UX Designer"
+u440,"Communication,SQL","Business,Management",0.59,0.43,0.3,High School,8,Marketing Specialist
+u441,"Data Analysis,Leadership",Management,0.26,0.34,0.39,Master,9,"Business Analyst,Product Manager"
+u442,"UI/UX,Excel,Machine Learning,Python,Communication",Health,0.7,0.35,0.51,PhD,4,"Financial Analyst,UX Designer"
+u443,"Machine Learning,Data Analysis,UI/UX","Health,Science",0.28,0.39,0.51,Bachelor,9,UX Designer
+u444,"Leadership,UI/UX","Science,Business",0.41,0.84,0.74,Bachelor,6,"Software Engineer,Marketing Specialist,Research Scientist"
+u445,"Statistics,Excel,Communication","Health,Management",0.47,0.97,0.55,High School,1,"Research Scientist,Data Scientist,Business Analyst"
+u446,"Python,Statistics",Science,0.95,0.47,0.98,Master,1,Product Manager
+u447,"Machine Learning,Cloud Computing,Data Analysis,Business Strategy","Management,Science,Business",0.81,0.22,0.2,PhD,7,Software Engineer
+u448,"Project Management,Communication","Arts,Management,Technology",0.93,0.65,0.94,PhD,9,"Business Analyst,Financial Analyst"
+u449,"Project Management,Data Analysis,SQL","Science,Arts,Business",0.71,0.47,0.5,High School,10,"UX Designer,Business Analyst,Software Engineer"
+u450,"Python,Business Strategy,Communication","Health,Education,Technology",0.84,0.78,0.37,PhD,10,"Financial Analyst,Product Manager,Data Scientist"
+u451,"Java,Project Management,SQL,UI/UX","Science,Health,Education",0.27,0.67,0.95,Bachelor,7,"Business Analyst,Data Scientist,Software Engineer"
+u452,"Creative Writing,Machine Learning,Python,Statistics","Arts,Business,Education",0.69,0.6,0.77,Master,4,"Research Scientist,Financial Analyst"
+u453,"Leadership,Project Management,Cloud Computing,Excel",Health,0.23,0.37,0.56,High School,2,"Marketing Specialist,Research Scientist,Software Engineer"
+u454,"Project Management,Java,Creative Writing,Leadership","Health,Technology",0.83,0.69,0.22,Bachelor,5,"Business Analyst,Marketing Specialist"
+u455,"Statistics,UI/UX,Project Management,Leadership","Education,Health,Science",0.65,0.32,0.43,PhD,9,"Software Engineer,Business Analyst,Data Scientist"
+u456,"Statistics,Business Strategy","Sports,Technology",0.95,0.91,0.75,PhD,0,"Research Scientist,Marketing Specialist"
+u457,"Machine Learning,Business Strategy","Education,Arts,Business",0.8,0.66,0.57,Master,7,"Marketing Specialist,UX Designer"
+u458,"Data Analysis,Leadership,Cloud Computing,Excel","Arts,Management",0.75,0.6,0.5,PhD,8,Data Scientist
+u459,"Project Management,SQL,UI/UX,Creative Writing","Science,Education,Health",0.97,0.28,0.45,Bachelor,9,Research Scientist
+u460,"SQL,Business Strategy,Machine Learning,Python",Technology,0.53,0.84,0.37,High School,10,"Business Analyst,Research Scientist,Financial Analyst"
+u461,"SQL,Machine Learning,Cloud Computing,Data Analysis","Health,Arts,Education",0.44,0.52,0.41,PhD,4,"Product Manager,UX Designer,Business Analyst"
+u462,"Cloud Computing,Data Analysis,Business Strategy","Health,Education",0.52,0.35,0.59,PhD,10,"Product Manager,Business Analyst"
+u463,"SQL,Java,Machine Learning","Business,Science",0.45,0.61,0.69,Master,3,"Product Manager,Research Scientist"
+u464,"Project Management,UI/UX","Science,Health",0.62,0.79,0.58,Bachelor,10,Marketing Specialist
+u465,"Machine Learning,Python,Project Management,Data Analysis,Communication","Sports,Science,Technology",0.56,0.87,0.42,PhD,5,Business Analyst
+u466,"Creative Writing,Communication,Excel,Cloud Computing","Science,Sports",0.23,0.86,0.3,PhD,2,Business Analyst
+u467,"Python,Cloud Computing,SQL,Business Strategy,Java","Education,Business,Sports",0.87,0.4,0.92,Bachelor,7,"Financial Analyst,Business Analyst"
+u468,"Machine Learning,SQL","Science,Arts,Management",0.37,0.6,0.75,Master,6,"Financial Analyst,Marketing Specialist,UX Designer"
+u469,"Leadership,SQL,Python,Machine Learning,Statistics","Business,Science,Management",0.39,0.5,0.37,PhD,0,Research Scientist
+u470,"Machine Learning,Statistics,Communication,Business Strategy,Excel",Management,0.64,0.7,0.57,Bachelor,7,"Business Analyst,Research Scientist,Marketing Specialist"
+u471,"Statistics,Data Analysis,Business Strategy,Project Management,Cloud Computing","Health,Education",0.76,0.39,0.71,Bachelor,4,Software Engineer
+u472,"Excel,Machine Learning",Education,0.24,0.35,0.76,PhD,10,Business Analyst
+u473,"Communication,Business Strategy","Arts,Sports,Business",0.93,0.29,0.72,Bachelor,1,Research Scientist
+u474,"Project Management,Statistics,Excel,Leadership",Business,0.42,0.91,0.32,Master,5,"Financial Analyst,Business Analyst,Data Scientist"
+u475,"Communication,UI/UX,Cloud Computing,Machine Learning,Leadership",Education,0.73,0.55,0.91,Bachelor,4,Data Scientist
+u476,"Leadership,Creative Writing,Statistics,Business Strategy,Excel","Education,Arts",0.42,0.73,0.22,High School,0,"UX Designer,Marketing Specialist,Software Engineer"
+u477,"SQL,Data Analysis,UI/UX","Technology,Arts,Health",0.53,0.98,0.68,Bachelor,10,"Marketing Specialist,Data Scientist,Business Analyst"
+u478,"Creative Writing,Data Analysis",Business,0.51,0.74,0.52,Bachelor,5,"UX Designer,Financial Analyst"
+u479,"Business Strategy,Machine Learning,Creative Writing,UI/UX,Excel","Sports,Education,Science",0.47,0.68,0.43,Master,1,"UX Designer,Research Scientist,Marketing Specialist"
+u480,"Business Strategy,Leadership,Statistics,Java","Arts,Management,Health",0.53,0.76,0.33,Master,4,Business Analyst
+u481,"Java,Communication,Leadership",Science,0.74,0.77,0.41,High School,1,"Marketing Specialist,Data Scientist,Financial Analyst"
+u482,"Cloud Computing,Business Strategy,Statistics","Management,Sports",0.52,0.34,0.65,Master,4,"Data Scientist,Marketing Specialist"
+u483,"UI/UX,Machine Learning,Communication,Creative Writing",Education,0.87,0.49,0.93,PhD,8,"UX Designer,Research Scientist,Marketing Specialist"
+u484,"Python,Leadership,Cloud Computing,SQL,Data Analysis",Education,0.65,0.23,0.39,Bachelor,8,"Marketing Specialist,UX Designer"
+u485,"Data Analysis,Business Strategy,Communication,SQL","Business,Health",0.21,0.49,0.79,PhD,10,"Research Scientist,UX Designer"
+u486,"Java,Communication",Health,0.62,0.25,0.53,Bachelor,5,"Software Engineer,UX Designer"
+u487,"Project Management,Leadership,Machine Learning",Arts,0.22,0.73,0.94,Master,0,"Data Scientist,Research Scientist,Software Engineer"
+u488,"Java,SQL",Business,0.98,0.38,0.66,Bachelor,3,Business Analyst
+u489,"Machine Learning,Excel,Creative Writing,Data Analysis,Communication","Arts,Science",0.25,0.63,0.67,High School,0,"Product Manager,Business Analyst,UX Designer"
+u490,"Communication,Project Management",Technology,0.54,0.53,0.99,Bachelor,4,"Business Analyst,Marketing Specialist"
+u491,"Machine Learning,Cloud Computing,Leadership","Health,Arts",0.5,0.71,0.87,High School,1,UX Designer
+u492,"Excel,Machine Learning","Science,Arts,Technology",0.77,0.49,0.82,PhD,7,"Business Analyst,Product Manager,UX Designer"
+u493,"Python,Data Analysis,Business Strategy,UI/UX,Cloud Computing","Health,Business,Arts",0.58,0.52,0.73,High School,4,"Product Manager,Research Scientist"
+u494,"Business Strategy,Excel,Communication,SQL,Machine Learning",Management,0.57,0.69,0.67,Master,4,"Software Engineer,Business Analyst"
+u495,"Creative Writing,Business Strategy,Communication",Health,0.34,0.76,0.84,Bachelor,1,"Software Engineer,Product Manager,Business Analyst"
+u496,"Leadership,SQL,Business Strategy","Business,Management",0.39,0.25,0.52,Bachelor,6,"Research Scientist,Data Scientist,UX Designer"
+u497,"Communication,Project Management,UI/UX,Python,Java",Business,0.89,0.7,0.25,Bachelor,8,"Research Scientist,Software Engineer"
+u498,"SQL,Excel,Communication,Business Strategy",Arts,0.95,0.48,0.23,PhD,2,"Research Scientist,Business Analyst,UX Designer"
+u499,"Excel,Communication,UI/UX,Machine Learning,Business Strategy","Sports,Technology,Management",0.86,0.65,0.36,Bachelor,1,"Marketing Specialist,Data Scientist"
+u500,"Creative Writing,Business Strategy","Education,Arts",0.93,0.43,0.89,Bachelor,4,"Business Analyst,Financial Analyst,Data Scientist"
