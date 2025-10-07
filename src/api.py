@@ -13,7 +13,10 @@ import os
 from datetime import datetime
 import logging
 
-from confidence_scorer import ConfidenceScorer
+try:
+    from .confidence_scorer import ConfidenceScorer
+except ImportError:
+    from confidence_scorer import ConfidenceScorer
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
