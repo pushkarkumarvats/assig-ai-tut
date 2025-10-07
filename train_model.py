@@ -103,6 +103,7 @@ print(comparison_df.to_string(index=False))
 
 # Step 9: Save best model
 print("\n[SAVING] Best model...")
+trainer.career_names = career_names  # Set career names before saving
 trainer.save_model('models/career_recommender_v1.pkl')
 
 # Step 10: Save artifacts
