@@ -96,27 +96,27 @@ print(response.json())
 
 ## 📈 Key Features
 
-### Task 1: Data Engineering (25%)
+### Task 1: Data Engineering 
 - Skill clustering (technical/soft skills)
 - Interest profiling
 - Personality trait normalization
 - Class imbalance handling
 - Feature importance analysis
 
-### Task 2: Model Development (40%)
+### Task 2: Model Development 
 - Multi-label classification
 - Hyperparameter optimization
 - Probability calibration
 - Comprehensive evaluation metrics
 - Error analysis
 
-### Task 3: Confidence Scoring (20%)
+### Task 3: Confidence Scoring
 - Hybrid scoring (model + heuristics)
 - Rule-based adjustments
 - Validation framework
 - Quality assurance metrics
 
-### Task 4: API Deployment (15%)
+### Task 4: API Deployment 
 - FastAPI implementation
 - Input validation
 - Model versioning
@@ -125,4 +125,4 @@ print(response.json())
 
 ## 👨‍💻 Author
 
-Built as part of AI/ML assignment demonstrating end-to-end ML system development.
+Built as part of AI/ML Practice assignment demonstrating end-to-end ML system development.
